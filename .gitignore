@@ -81,6 +81,7 @@ target/
 profile_default/
 ipython_config.py
 
+
 # pyenv
 .python-version
 
@@ -127,3 +128,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Common_Functions.py
+^DJI.csv
+^GSPC.csv
+^IXIC.csv
+COVID_DJI ML - Copy.ipynb
+COVID19.csv
+Ebola.csv
+Swine_Flu.csv
+Plot Testing.ipynb
